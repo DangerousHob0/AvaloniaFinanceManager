@@ -1,0 +1,2 @@
+# AvaloniaFinanceManager
+Start Project
